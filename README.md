@@ -1,35 +1,10 @@
-## About me
+# About me
 
-I'm Yaorui Liu, second year graduate student major in Statistics.
+I am second year graduate student at UC Davis in the Statistics department.   [Image]()
+I am interested in Machine learning algorithm applied on Big datasets.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaoruiliu/yaoruiliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Research
+### Mobile App Market Analysis
+The explosive growth of the mobile application (app) market has made it difficult for users to find the most interesting and relevant apps from the hundreds of thousands that exist today. We are interested to analyze the quality of apps and understand the user experiences of using mobile apps on the Itune App Store. In this project, we would go through the data science cycle including problem/data curations, data management, data analytics and result-oriented presentations through data visualization.
+### Combined LEML and LPSR for Large Scale Multi-Label Learning
+Large number of categories for Multi-Label Learning leads to heavy computational cost. Current algorithms for Multi-Label learning are only used to solve certain kind of data. We combinded LEML(Large-scale Multi-label Learning) and LPSR(Label Partitioning for Sublinear Ranking) and applied on two different kind of datasets to test the accuracy and computational complexity.
