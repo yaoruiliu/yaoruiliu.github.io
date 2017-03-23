@@ -1,6 +1,6 @@
 # About me
 
-I am second year graduate student at UC Davis in the Statistics department.   [Image]()
+I am second year graduate student at UC Davis in the Statistics department.   
 I am interested in Machine learning algorithm applied on Big datasets.
 
 ## Research
